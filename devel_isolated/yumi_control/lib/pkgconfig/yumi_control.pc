@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/devel_isolated/yumi_control
+
+Name: yumi_control
+Description: Description of yumi_control
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

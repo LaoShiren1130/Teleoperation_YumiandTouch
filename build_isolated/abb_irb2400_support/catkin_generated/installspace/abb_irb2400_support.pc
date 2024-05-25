@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/install_isolated
+
+Name: abb_irb2400_support
+Description: Description of abb_irb2400_support
+Version: 1.3.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

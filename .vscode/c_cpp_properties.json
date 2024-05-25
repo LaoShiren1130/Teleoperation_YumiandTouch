@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/touch_custom_msgs/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/omni_msgs/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_robot_msgs/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_rapid_sm_addin_msgs/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_rapid_msgs/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_egm_rws_managers/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_librws/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_libegm/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel_isolated/abb_egm_msgs/include/**",
+        "/home/xiaohulu1130/teleop_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_driver/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_robot_driver/abb_egm_hardware_interface/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_egm_rws_managers/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_robot_driver/abb_egm_state_controller/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_libegm/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_librws/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_robot_driver/abb_robot_cpp_utilities/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_robot_driver/abb_rws_service_provider/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_robot_driver/abb_rws_state_publisher/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/communication_MatlabandIRB_pkg/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/teletouch_pkg/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/touch_custom_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

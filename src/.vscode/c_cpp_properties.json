@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/xiaohulu1130/teleop_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/abb_driver/include/**",
+        "/home/xiaohulu1130/teleop_ws/src/OpenHaptics/Developer/3.4-0/libsrc/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

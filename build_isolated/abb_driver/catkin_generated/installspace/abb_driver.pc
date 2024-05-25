@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/install_isolated
+
+Name: abb_driver
+Description: Description of abb_driver
+Version: 1.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: industrial_robot_client

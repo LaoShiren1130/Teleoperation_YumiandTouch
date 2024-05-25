@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/install_isolated
+
+Name: libvisensor
+Description: Description of libvisensor
+Version: 1.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lvisensor
+Requires: 

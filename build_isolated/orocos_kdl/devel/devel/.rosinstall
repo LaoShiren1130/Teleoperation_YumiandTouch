@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xiaohulu1130/teleop_ws/build_isolated/orocos_kdl/devel/devel/setup.sh

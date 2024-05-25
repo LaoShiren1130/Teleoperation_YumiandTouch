@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/devel_isolated/abb_irb120_gazebo
+
+Name: abb_irb120_gazebo
+Description: Description of abb_irb120_gazebo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/install_isolated
+
+Name: yumi_control
+Description: Description of yumi_control
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

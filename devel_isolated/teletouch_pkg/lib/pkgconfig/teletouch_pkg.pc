@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/devel_isolated/teletouch_pkg
+
+Name: teletouch_pkg
+Description: Description of teletouch_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs omni_description omni_msgs tf xacro

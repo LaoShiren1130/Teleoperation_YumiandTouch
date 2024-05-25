@@ -1,0 +1,8 @@
+prefix=/home/xiaohulu1130/teleop_ws/install_isolated
+
+Name: yumi_hw
+Description: Description of yumi_hw
+Version: 0.0.4
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lyumi_hw
+Requires: cmake_modules control_toolbox controller_interface controller_manager hardware_interface joint_limits_interface kdl_parser realtime_tools roscpp std_msgs tf transmission_interface urdf simple_message
